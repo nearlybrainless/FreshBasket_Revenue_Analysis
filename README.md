@@ -1,0 +1,3 @@
+-> Conducted a comprehensive revenue analysis for FreshBasket, employing precise data cleansing techniques to ensure integrity.
+-> Utilized data modeling to configure relationships and filter flows and created DAX measures and calculated columns for KPIs. 
+-> Key insights included monthly revenue growth, top-performing product categories, and seasonal sales trends.
