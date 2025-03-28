@@ -14,6 +14,16 @@ This project analyzes revenue data for **FreshBasket**, focusing on trends, key 
 - 👥 **Customer segmentation** and purchasing behavior  
 - 💰 **Top-selling products & revenue contribution**  
 
+## 🖼 Screenshots  
+### 1️⃣ Time Intelligence Analysis  
+<img src="Time_Intelligence.png" alt="Time Intelligence Analysis" width="400">
+
+### 2️⃣ Revenue Ranking & Product Performance
+<img src="Top_Selling.png" alt="Product Ranking Analysis" width="400">
+
+### 3️⃣ Customer Segmentation
+<img src="Customer_Segmentation.png" alt="Product Ranking Analysis" width="400">
+
 ## 📂 Contents  
 - **`FreshBasket Revenue Analysis.xlsx`** – The main workbook containing:  
   - Raw & processed data  
